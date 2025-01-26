@@ -30,3 +30,8 @@ accountBalance = accountBalance / 10
 
 let customerName = "Daniel"
 console.log("Welcome",customerName, "to our page")
+
+let isLoggedIn = true 
+if (isLoggedIn) {
+    console.log("User has logged in")
+}
