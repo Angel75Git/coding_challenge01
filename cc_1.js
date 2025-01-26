@@ -27,4 +27,6 @@ accountBalance = accountBalance * 15
                   
 console.log("accountBalance update: ", "$",accountBalance / 10 ) 
 accountBalance = accountBalance / 10  
-                                  
+
+let customerName = "Daniel"
+console.log("Welcome",customerName, "to our page")
